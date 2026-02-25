@@ -18,6 +18,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For any queries, feel free to reach out:
 
  
--website :  https://portfoilo-olive-omega.vercel.app
-- GitHub: https://github.com/bilaltanveer2
+-website :  (https://portfolio-abdulhadi1.vercel.app/)
+- GitHub: https://github.com/abdulhadi3021
+
 
